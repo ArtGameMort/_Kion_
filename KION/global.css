@@ -12,11 +12,22 @@ body{
     background-position: 100px;
     position: relative;
 }
+.header1{
+    background-image:url("https://static.kion.ru/kds/neaz_banner/1006/l.webp");
+    background-size: 1800px;
+    background-repeat: no-repeat;
+    background-position: 100px;
+    position: relative;
+}
 .artem_lox{
     display: flex;
 }
 #block0{
     height:700px;
+    width: auto;
+}
+#globals{
+    height:450px;
     width: auto;
 }
 #block10{
@@ -163,6 +174,33 @@ body{
     width: 160px;
     height: 243px;
     border-radius: 10px;
+}
+.button5{
+    background-image: url("https://static.kion.ru/covers/images/formats/RECT_722a2ac155711c6851d23f1e0b243394.avif");
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    width: 250px;
+    height: 150px;
+    border-radius: 10px;
+}
+.button6{
+    background-image: url("https://static.kion.ru/covers/images/formats/RECT_722a2ac155711c6851d23f1e0b243394.avif");
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+.button7{
+    background-image: url("https://static.kion.ru/covers/images/formats/RECT_722a2ac155711c6851d23f1e0b243394.avif");
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    width: 260px;
+    height: 280px;
+    border-radius: 90px;
 }
 .bаtton1{
     margin-left: 20px;
